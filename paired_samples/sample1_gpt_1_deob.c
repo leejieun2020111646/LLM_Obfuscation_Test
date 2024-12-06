@@ -20,7 +20,7 @@ char direction = 1,
 unsigned int score = 0;
 int f = 0;
 
-void update(int signal) {
+void update(int sig) {
     int random_val;
     printf(
         "\033[%u;%uH\033L%c\033[%u;%uH%c\033[%u;%uH%s\03322;%uH@\03323;%uH \n",
