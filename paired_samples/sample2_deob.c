@@ -1,5 +1,4 @@
-# deob
-
+#include <stdlib.h>
 #include <stdio.h>
 int add(int);
 int x, y, result;
