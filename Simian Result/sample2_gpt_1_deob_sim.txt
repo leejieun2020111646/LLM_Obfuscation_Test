@@ -1,0 +1,8 @@
+C:\Users\user\Downloads\simian-academic\simian-4.0.0>java -jar simian-4.0.0.jar -includes="C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample2_deob.c" -includes="C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample2_gpt_1_deob.c"  -threshold=1
+Simian Similarity Analyzer 4.0.0 - https://simian.quandarypeak.com
+Copyright (c) 2023 Quandary Peak Research. All rights reserved.
+Subject to the Quandary Peak Academic Software License.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, threshold=1}
+Found 0 duplicate lines in 0 blocks in 0 files
+Processed a total of 24 significant (35 raw) lines in 2 files
+Processing time: 0.056sec
