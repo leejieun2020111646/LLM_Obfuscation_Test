@@ -1,0 +1,22 @@
+C:\Users\user\Downloads\simian-academic\simian-4.0.0>java -jar simian-4.0.0.jar -includes="C:\Users\user\Downloads\ori1.c" -includes="C:\Users\user\
+Downloads\de1ob1.c" -threshold=1
+Simian Similarity Analyzer 4.0.0 - https://simian.quandarypeak.com
+Copyright (c) 2023 Quandary Peak Research. All rights reserved.
+Subject to the Quandary Peak Academic Software License.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, threshold=1}
+Found 1 duplicate lines with fingerprint 5df43b54ca47aedc347398dab9f058aa in the following files:
+Between lines 73 and 76 in C:\Users\user\Downloads\de1ob1.c
+Between lines 172 and 176 in C:\Users\user\Downloads\ori1.c
+Found 1 duplicate lines with fingerprint 194eee1284521edae8118e6433eeb229 in the following files:
+Between lines 83 and 84 in C:\Users\user\Downloads\de1ob1.c
+Between lines 185 and 186 in C:\Users\user\Downloads\ori1.c
+Found 2 duplicate lines with fingerprint d0a7d5733446d9bc0f5aa000557cdd05 in the following files:
+Between lines 192 and 195 in C:\Users\user\Downloads\ori1.c
+Between lines 90 and 92 in C:\Users\user\Downloads\de1ob1.c
+Found 4 duplicate lines with fingerprint fda23db788ad938b2422abc600fb861e in the following files:
+Between lines 112 and 116 in C:\Users\user\Downloads\ori1.c
+Between lines 121 and 125 in C:\Users\user\Downloads\ori1.c
+Found 16 duplicate lines in 8 blocks in 2 files
+
+Processed a total of 227 significant (340 raw) lines in 2 files
+Processing time: 0.109sec
