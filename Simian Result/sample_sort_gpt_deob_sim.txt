@@ -1,0 +1,11 @@
+C:\Users\user\Downloads\simian-academic\simian-4.0.0>java -jar simian-4.0.0.jar -includes="C:\Users\user\Downloads\LLM_Obfuscation_Test-main (1)\LLM_Obfuscation_Test-main\paired_samples_tigress\sample_sort_original.c" -includes="C:\Users\user\Downloads\LLM_Obfuscation_Test-main (1)\LLM_Obfuscation_Test-main\paired_samples_tigress\sample_sort_deobfuscated.c" threshold=1
+Simian Similarity Analyzer 4.0.0 - https://simian.quandarypeak.com
+Copyright (c) 2023 Quandary Peak Research. All rights reserved.
+Subject to the Quandary Peak Academic Software License.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, threshold=6}
+Found 8 duplicate lines with fingerprint c019cab712c04c1883a7823b2abc1dcc in the following files:
+ Between lines 59 and 71 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main (1)\LLM_Obfuscation_Test-main\paired_samples_tigress\sample_sort_deobfuscated.c
+ Between lines 86 and 98 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main (1)\LLM_Obfuscation_Test-main\paired_samples_tigress\sample_sort_original.c
+Found 16 duplicate lines in 2 blocks in 2 files
+Processed a total of 81 significant (171 raw) lines in 2 files
+Processing time: 0.060sec
