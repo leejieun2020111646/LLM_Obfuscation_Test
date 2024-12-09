@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\simian-academic\simian-4.0.0>java -jar simian-4.0.0.jar -includes="C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample4_gpt_1_deob.c" -includes="C:\Users\user\Dow
+nloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample4_deob.c" -threshold=1
+Simian Similarity Analyzer 4.0.0 - https://simian.quandarypeak.com
+Copyright (c) 2023 Quandary Peak Research. All rights reserved.
+Subject to the Quandary Peak Academic Software License.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, threshold=1}
+Found 1 duplicate lines with fingerprint fb04ebdb99abbcbe8b9fc9774b20b683 in the following files:
+ Between lines 166 and 169 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample4_deob.c
+ Between lines 60 and 63 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample4_gpt_1_deob.c
+Found 1 duplicate lines with fingerprint 6f55513deeecc71a02a55794806809b8 in the following files:
+ Between lines 139 and 140 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample4_deob.c
+ Between lines 130 and 131 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main\LLM_Obfuscation_Test-main\paired_samples\sample4_deob.c
+Found 4 duplicate lines in 4 blocks in 2 files
+Processed a total of 66 significant (234 raw) lines in 2 files
+Processing time: 0.119sec
