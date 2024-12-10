@@ -1,0 +1,10 @@
+Simian Similarity Analyzer 4.0.0 - https://simian.quandarypeak.com
+Copyright (c) 2023 Quandary Peak Research. All rights reserved.
+Subject to the Quandary Peak Academic Software License.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, threshold=1}
+Found 4 duplicate lines with fingerprint bf781a29807abbf8f4fd6a1f45158c49 in the following files:
+ Between lines 2 and 9 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main (1)\sample_fibo_original.c
+ Between lines 2 and 9 in C:\Users\user\Downloads\LLM_Obfuscation_Test-main (1)\sample_fibo_deobfuscated.c
+Found 8 duplicate lines in 2 blocks in 2 files
+Processed a total of 20 significant (32 raw) lines in 2 files
+Processing time: 0.074sec
